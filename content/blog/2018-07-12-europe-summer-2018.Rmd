@@ -117,11 +117,11 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * Venice is a beautiful city, but it is overwhelmed by tourists, and tavelling from one place to another is incredibly difficult. It must be taking a big toll on the locals
 * We decided to go back to the hotel
 
-<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/canal_grande.jpg?">Venice
+<img src="https://travel.usnews.com/static-travel/images/destinations/111/552130627.jpg">Venice
 
-<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/piazza_san_marco.jpg">St Marks square
+<img src="https://travel.usnews.com/static-travel/images/destinations/111/187413773.jpg"><br>St Marks square
 
-<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/rialto_e_il_suo_mercato_grande.jpg?">Rialto bridge
+<img src="https://travel.usnews.com/static-travel/images/destinations/111/venice_rialto_bridge.jpg">Rialto bridge
 
 ##### Day 9
 
@@ -147,7 +147,7 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * We got on a small boat, and went exploring small caves and grottos. The water was blue and clear, and surrounded by high cliffs and rock formation.
 * After the boat ride we went to a restaurant Vrachos Palaiokastritsa. We ate salad with cheese, pasta, bread and hummus and wine. The food and the sunset summed up a great day in corfu.
 
-<img src="http://images.greece.com/panoramio/07/18/03/27/596dfebea6349.jpg" title = "Paleokastritsa">
+<img src="http://images.greece.com/panoramio/07/18/03/27/596dfebea6349.jpg" title = "Paleokastritsa">Paleokastritsa
 
 <img src="https://media-cdn.tripadvisor.com/media/photo-s/0e/ca/94/53/vrachos-palaiokastritsa.jpg">Vrachos restaurant from tripadvisor
 
@@ -161,9 +161,9 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * The sunset was pretty, but we watched it from the line to get back on the ship
 * Given the logistical challenges one day is not enough, 2-3 day trip is required to fully enjoy the island
 
-<img src="http://www.visitgreece.gr/deployedFiles/StaticFiles/Photos/Generic%20Contents/Nisia/santorini_2_view_560.jpg">Santorini
+<img src="https://travel.usnews.com/static-travel/images/destinations/73/gettyimages-462922955.jpg">Santorini
 
-<img src="http://www.visitgreece.gr/deployedFiles/StaticFiles/Photos/Generic%20Contents/Nisia/santorini_stair_view_560.jpg">Santorini
+<img src="https://travel.usnews.com/static-travel/images/destinations/73/gettyimages-541132240.jpg">Santorini
 
 ##### Day 13
 
@@ -193,28 +193,45 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * Reached Venice
 * Took the early afternoon flight back to good'ol USA
 
-
+####### Swiss Map
 ```{r swiss map, echo=FALSE, warning=FALSE,message=FALSE}
 
 leaflet() %>%
   addTiles() %>%
-  addMarkers(lng = 8.4666749, lat = 47.3775499, label = 'Zurich') %>%
-  addMarkers(lng = 7.8228105, lat = 46.6845535, label = 'Interlaken') %>%
-  addMarkers(lng = 7.9707348, lat = 46.6197715, label = 'Grindlewald') %>%
-  addMarkers(lng = 7.9011553, lat = 46.5983824, label = 'Lauterbrunnen') %>%
-  addMarkers(lng = 7.892257, lat = 46.64044, label = 'Zweilütschinen') %>%
-  addMarkers(lng = 7.8490376, lat = 46.5478793, label = 'Schilthorn') %>%
-  addMarkers(lng = 7.9629635, lat = 46.5497149, label = 'Jungfraujoch') %>%
-  addMarkers(lng = 7.9524704, lat = 46.5850292, label = 'Kleine Scheidegg') %>%
-  addMarkers(lng = 8.4290156, lat = 46.7720618, label = 'Mt Titlis') %>%
-  addMarkers(lng = 8.0943898, lat = 46.7872862, label = 'Lungern') %>%
-  addMarkers(lng = 7.60186, lat = 45.9907379, label = 'Zermat')
+  addMarkers(lng = 8.542006, lat = 47.375464, label = 'Zurich') %>%
+  addMarkers(lng = 7.851543, lat = 46.684479, label = 'Interlaken') %>%
+  addMarkers(lng = 8.034131, lat = 46.624444, label = 'Grindlewald') %>%
+  addMarkers(lng = 7.908015, lat = 46.598201, label = 'Lauterbrunnen') %>%
+  addMarkers(lng = 7.899891, lat = 46.632587, label = 'Zweilütschinen') %>%
+  addMarkers(lng = 7.835230, lat = 46.557218, label = 'Schilthorn') %>%
+  addMarkers(lng = 7.985253, lat = 46.547587, label = 'Jungfraujoch') %>%
+  addMarkers(lng = 7.960720, lat = 46.585014, label = 'Kleine Scheidegg') %>%
+  addMarkers(lng = 8.426078, lat = 46.770663, label = 'Mt Titlis') %>%
+  addMarkers(lng = 8.157500, lat = 46.786678, label = 'Lungern') %>%
+  addMarkers(lng = 7.748704, lat = 46.019895, label = 'Zermat')
 
 
 ```
 
 
-addMarkers(lng = 12.336283, lat = 45.4341705, label = 'St Marks Square') %>%
+
+####### Cruise Map
+```{r cruise,echo=FALSE}
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = 12.336283, lat = 45.4341705, label = 'St Marks Square') %>%
+  addMarkers(lng = 19.0862062, lat = 42.0983657, label = 'Bar, Montenegro') %>%
+  addMarkers(lng = 19.9016166, lat = 39.6295488, label = 'Corfu, Greece') %>%
+  addMarkers(lng = 25.378594, lat = 36.461938, label = 'Santorini, Greece') %>%
+  addMarkers(lng = 25.327410, lat = 37.447653, label = 'Mykonos, Greece') %>%
+  addMarkers(lng = 18.106118, lat = 42.640884, label = 'Dubrovnik, Croatia') 
+  
+
+
+
+```
+
 
 
 
