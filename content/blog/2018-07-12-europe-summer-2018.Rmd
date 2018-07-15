@@ -117,11 +117,11 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * Venice is a beautiful city, but it is overwhelmed by tourists, and tavelling from one place to another is incredibly difficult. It must be taking a big toll on the locals
 * We decided to go back to the hotel
 
-<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/canal_grande.jpg?itok=BsEqraPA">Venice
+<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/canal_grande.jpg?">Venice
 
-<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/piazza_san_marco.jpg?itok=44pN6qyX">St Marks square
+<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/piazza_san_marco.jpg">St Marks square
 
-<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/rialto_e_il_suo_mercato_grande.jpg?itok=a9EQSTwi">Rialto bridge
+<img src="http://www.venice-tourism.com/sites/default/files/styles/banner/public/rialto_e_il_suo_mercato_grande.jpg?">Rialto bridge
 
 ##### Day 9
 
