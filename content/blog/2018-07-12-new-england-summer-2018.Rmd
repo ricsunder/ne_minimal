@@ -1,0 +1,235 @@
+---
+title: New England Summer 2018
+author: ''
+date: '2018-07-12'
+slug: new-england-summer-2018
+categories: []
+tags: []
+---
+
+
+```{r, echo=FALSE, include=FALSE}
+library(magick)
+library(tidyquant)
+library(leaflet)
+
+```
+
+```{r, image, message=FALSE,echo=FALSE, cache=TRUE}
+
+ne <- image_read("~/Documents/VT_Trip/VT_trip/new_england.gif")
+ne
+```
+
+
+## Vermont & New Hampshire Trip
+
+### Day 1 June 29
+
+* Landed at Newark Airport
+* Ate [Roti](https://roti.com/wp-content/uploads/2018/02/RotiDC-NYCCatering021418.pdf) falafel for lunch
+* Started driving toward New Haven
+* Dinner at [Frank Pepe Pizza]()
+* Started driving towards Barnet, VT at around 8.00 pm
+* Reached the rented house at 1.30 am. It was an adventure to locate the house late at night with no cell phone reception.
+* The house was impressive, location was great and it was located in the woods.
+* You could hear owls at night and their sound would echo from the near by mountains.
+
+<br>
+<br>
+
+```{r house,message=FALSE,echo=FALSE, fig.height=11,fig.width=8}
+house <- image_read("~/Documents/VT_Trip/VT_trip/house.jpg")
+house
+
+```
+<br>
+<br>
+
+```{r house_map, echo=FALSE}
+# leaflet() %>%
+#   addTiles() %>%
+#   addMarkers(lng = -72.136948, lat = 44.298359, label = 'Rental House')
+```
+
+
+### Day 2 June 30
+
+* Woke up at sunrise
+* Had breakfast outside
+* Left to see Flume Gorge falls
+* Enjoyed a nice hike up to the falls
+* Came home and made some important life decisions over dinner.
+<br>
+<br>
+
+```{r, flume gorge, message=FALSE,echo=FALSE}
+
+gorge <- image_read("~/Documents/VT_Trip/VT_trip/FlumeGorge.jpg")
+gorge_fall <- image_read("~/Documents/VT_Trip/VT_trip/gorge_fall.jpg")
+gorge_falls <- image_read("~/Documents/VT_Trip/VT_trip/gorge_falls.jpg")
+gorge_track <- image_read("~/Documents/VT_Trip/VT_trip/gorge_track.jpg")
+
+gorge_track
+
+gorge
+
+gorge_fall
+
+gorge_falls
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -71.679960, lat = 44.097029, label = 'The Flume Gorge')
+
+```
+<br>
+<br>
+
+### Day 3 July 1, Canada Day
+
+* Woke up again at sunrise (Rooms have no curtains)
+* After breakfast relaxed in the morning and left for Mount Washington in the afternoon
+* Ate Lunch at Chang's Thai in Littleton, enjoyed the thai tea with coconut cream
+* Littleton is a charming town in New Hampshire
+* Ate ice cream at Bishops home made ice cream
+* Drove to Mt Washington, it is one of the coldest places on earth
+* Since they had a 900 lbs weight limit, the security guard asked to lose some weight and come back
+* We decided to split our group
+* The drive to Mt Washington was incredible
+* The road was narrow and driving was challenging
+* On Mt Washington, we walked up to the summit, visited the tip top house, and hiked a little
+* On the way back we visited Mt Washington Hotel
+* It was the place where leaders from 44 nations gathered to form the Iternational Monetary Fund in 1944
+* It is a stunning hotel with beautiful views
+* All of us dreamed of celebrating an upcoming wedding here
+<br>
+<br>
+
+```{r Day 3, message=FALSE,echo=FALSE}
+
+wash_cold <- image_read("~/Documents/VT_Trip/VT_trip/mt_cold.jpg")
+wash_road <- image_read("~/Documents/VT_Trip/VT_trip/Mt_wash_road.jpg")
+wash_hotel <- image_read("~/Documents/VT_Trip/VT_trip/mt_wash_hotel.jpg")
+tip_top <- image_read("~/Documents/VT_Trip/VT_trip/tip_top_hotel.jpg")
+
+
+wash_cold
+
+wash_road
+tip_top
+wash_hotel
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -71.303471, lat = 44.269733, label = 'Mt Washington') %>%
+  addMarkers(lng = -71.439799, lat = 44.257311, label = 'Mt Washington Hotel')
+
+```
+<br>
+<br>
+
+
+### Day 4, July 2
+
+* We loved Mt Washington a lot and decided to go up to the summit again
+* Had lunch again in Littleton
+* After lunch, took the Cog Wheel train up the Mountain
+* The Cog Wheel train in New Hampshire is the first such mountain train
+* It was built in 1868, it shows the vision and willpower of Slyvester Marsh
+* It was a 45 minute journey up.
+* Enjoyed the beautiful views from the mountain, hiked a little
+* It appears that everybody in the group love mountain views and hikes
+
+<br>
+<br>
+
+
+```{r, Day 4, message=FALSE,echo=FALSE, cache=TRUE}
+
+mt_wash_cog <- image_read("~/Documents/VT_Trip/VT_trip/mt_wash_rail.jpg")
+cog <- image_read("~/Documents/VT_Trip/VT_trip/cog_rail.jpg")
+
+mt_wash_cog
+cog
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -71.349975, lat = 44.270662, label = 'Cog Wheel Train')
+
+```
+
+<br>
+<br>
+
+### Day 5, July 3
+
+* Started driving towards Canada
+* The scenery between Vermont and Canada makes you feel like you are in Switzerland
+* Border crossing was easy and drive to Montreal was without much difficulty
+* But the weather was not the best we had hoped for.
+* This was one of the hottest weeks in North America with temperatures reaching above 95'
+* After lunch we visited the Basilica and started driving back to our House
+* It cooled down in the evening.
+* Enjoyed a relaxing evening on Lake Harvey, it was a beautiful end to the overall trip
+
+<br>
+<br>
+
+```{r Day 5, message=FALSE,echo=FALSE, cache=TRUE}
+mont <- image_read("~/Documents/VT_Trip/VT_trip/montreal.jpg")
+basilica <- image_read("~/Documents/VT_Trip/VT_trip/basilica.jpg")
+
+mont
+basilica
+
+```
+
+<br>
+<br>
+
+```{r Day 6, message=FALSE,echo=FALSE, cache=TRUE}
+
+fK_pepe <- image_read("~/Documents/VT_Trip/VT_trip/pepe_displ.jpg")
+pizza <- image_read("~/Documents/VT_Trip/VT_trip/tom_pizza.jpg")
+nyc_firewk <- image_read("~/Documents/VT_Trip/VT_trip/nyc_firework.jpg")
+
+fK_pepe
+pizza
+nyc_firewk
+
+```
+
+### Day 6, July 4th Happy Independence Day
+
+* Strated driving back to New York
+* Had Frank Pepe Pizza(again)
+* Reached New York City around 5.30 pm
+* Watched Coco Movie and ate Kichdi and ice cream (Ben & Jerry's)
+* Went to the rooftop and watched the July 4th Fireworks and Empire State Building
+
+```{r Maps, message=FALSE,echo=FALSE}
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -72.136948, lat = 44.298359, label = 'Rental House') %>%
+  addMarkers(lng = -71.798607, lat = 44.304781, label = 'Walmart') %>%
+  addMarkers(lng = -71.773045, lat = 44.306430, label = 'Changs Thai') %>%
+  addMarkers(lng = -71.771685  , lat = 44.305761, label = 'Inkwell Coffee') %>%
+  addMarkers(lng = -71.770650  , lat = 44.304226, label = 'The Little Grille') %>%
+  addMarkers(lng = -71.303471, lat = 44.269733, label = 'Mt Washington') %>%
+  addMarkers(lng = -71.439799, lat = 44.257311, label = 'Mt Washington Hotel') %>%
+  addMarkers(lng = -72.917228, lat = 41.303193, label = 'Frank Pepe\'s Pizza') %>%
+  addMarkers(lng = -73.556172, lat = 45.504447, label = 'Notre Dame Basilica') %>%
+  addMarkers(lng = -74.176998, lat = 40.690399, label = 'Newark Airport') %>%
+  addMarkers(lng = -74.000541, lat = 40.761253, label = 'New York City')
+  
+  
+  
+
+```
+
+
+
+
+
