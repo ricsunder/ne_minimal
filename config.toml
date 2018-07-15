@@ -11,6 +11,8 @@ title = "Explore"
 disqusshortname = ""
 pluralizelisttitles = false
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 [permalinks]
 blog = "blog/:slug/"
 
