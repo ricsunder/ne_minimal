@@ -23,37 +23,54 @@ library(leaflet)
 * As hurricane harvey was approaching US the trip was in serious doubt. But luckily the planes left before the hurricane made landfall.
 * Next day landed in Zurich
 * Took the train from Zurich to Bern, Bern to Interlaken, Interlaken to Grindelwald
-* Reached [Grindlewald hotel](https://img.myswitzerland.com/mys/n49452/images/buehne/aussenansicht_kreuz__post.jpg) around 4 pm
+* Reached [Grindlewald hotel] around 4 pm
 * Had pizza for greasy pizza for dinner, then had a relaxing evening while a band played American country music
 
 
 ##### Day 2
 
-* Took the [gondola](https://www.youtube.com/watch?v=JWHmG99jlwU) up to [First Cliff Walk](https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1320/v1479810701/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Sommer-Cliff-Walk-Eiger-Moench-Jungfrau.jpg), and enjoyed some amazing views of the Alps
-* Then hiked to a nearby [lake Bachalpsee](https://en.wikipedia.org/wiki/Bachalpsee#/media/File:Bachalpsee_reflection.jpg) and took some more pictures of the peaks in reflecting water.
+* Took the [gondola](https://www.youtube.com/watch?v=JWHmG99jlwU) up to First Cliff Walk, and enjoyed some amazing views of the Alps
+* Then hiked to a nearby lake Bachalpsee and took some more pictures of the peaks in reflecting water.
 * After the gondola and hike everybody was hungry and craving for some good food and [Golden India restaurant](https://www.google.com/maps/place/Golden+India/@46.6244728,7.9753073,12z/data=!4m8!1m2!2m1!1sGolden+India!3m4!1s0x478f9bf95116ebdd:0x6499491bcf71838!8m2!3d46.6244583!4d8.0430548) fulfilled all the cravings.
-* After dinner enjoyed some [mini golf](https://www.google.com/maps/search/mini+golf/@46.6232805,8.0389147,19.66z) as sunset behind [Mount Eiger](https://img.myswitzerland.com/mys/n13929/images/buehne/Eiger_nordwand-1.jpg)
+* After dinner enjoyed some [mini golf](https://www.google.com/maps/search/mini+golf/@46.6232805,8.0389147,19.66z) as sunset behind Mount Eiger
 
+<img src="https://img.myswitzerland.com/mys/n49452/images/buehne/aussenansicht_kreuz__post.jpg">Grindelwald Hotel
+
+<img src="https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1320/v1479810701/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Sommer-Cliff-Walk-Eiger-Moench-Jungfrau.jpg">First Cliff Walk
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Bachalpsee_reflection.jpg">Lake Bachalpsee
+
+<img src="https://img.myswitzerland.com/mys/n13929/images/buehne/Eiger_nordwand-1.jpg">Mt Eiger
 
 ##### Day 3
 
 * After enjoying made to order omelete and musli for breakfast, we left for Lauterbrunnen
 * From there took the bus to Stechelberg and four different Gondolas to reach Schilthorn
 * We passed small villages of Wengen, Gimmewald and Murren as we traveled
-* The final destination for the gondola was [Piz Gloria revolving restaurant](https://img.myswitzerland.com/mys/n65937/images/buehne/piz_gloria_muerren.jpg)
+* The final destination for the gondola was Piz Gloria revolving restaurant
 This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_Gloria) and offered spectacular views of all the major Alps peaks
 * After lunch at the restaurant, we proceeded to [Birg Skywalk](https://vimeo.com/206105774). The sky walk will test your fear of heights. 
-* The [Lauterbrunnen Valley](https://img.myswitzerland.com/mys/n65934/images/buehne/st0042708_wilderswil_lauterbrunnental.jpg) offered incredible views of the mountains and has 72 waterfalls. The most famous is the [Trümmelbach Falls](https://travelguide.michelin.com/sites/default/files/styles/poi_slideshow/public/images/travel_guide/voyage_media-NX-14590/trummelbach-waterfalls.jpg?itok=5rZwVXst)
+* The Lauterbrunnen Valley offered incredible views of the mountains and has 72 waterfalls. The most famous is the Trümmelbach Falls
+
+<img src="https://img.myswitzerland.com/mys/n65937/images/buehne/piz_gloria_muerren.jpg">Piz Gloria Restaurant
+
+<img src = "https://img.myswitzerland.com/mys/n65934/images/buehne/st0042708_wilderswil_lauterbrunnental.jpg">Lauterbrunnen Valley
+
+<img src="https://travelguide.michelin.com/sites/default/files/styles/poi_slideshow/public/images/travel_guide/voyage_media-NX-14590/trummelbach-waterfalls.jpg?itok=5rZwVXst">Trummelbach Waterfalls
 
 ##### Day 4
 
-* After an amazing day at Schilthorn, it was onto Jungfraujoch. Also know as ["Top of Europe"](https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1410/v1499772463/fileadmin/Jungfraujoch_Top_of_Europe/Jungfraujoch-Sphinx-Gletscher-Sonnenuntergang.jpg).
+* After an amazing day at Schilthorn, it was onto Jungfraujoch. Also know as "Top of Europe".
 * We started early morning and were lucky to get seats on the train without reservation.
 * We took the train from Grindelwald to Kleine Scheidegg, and then a special mountain [train](https://www.youtube.com/watch?v=tVxONJO3-rs) up to Jungfraujoch
 * The train traveled through some of the best sceneries in Swizerland. We travelled through mountains, tunnels and enjoyed views of glaciers.
 * After reaching the top we spent the whole day having fun on the snow.
 * After getting down, we enjoyed good lunch at Kleine Scheidegg, and a short hike.
 * After reaching the hotel around 4 pm, we still have the whole evning left and decided to take the train to Interlaken. We rented bicyles and strolled around the city and the lake.
+
+<img src="https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1410/v1499772463/fileadmin/Jungfraujoch_Top_of_Europe/Jungfraujoch-Sphinx-Gletscher-Sonnenuntergang.jpg">Jungfraujoch
+
+
 
 ##### Day 5
 
@@ -64,12 +81,18 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * The facilities were not upto Swiss standards and nothing was open.
 * We ate late lunch at an Indian restaurant and took the 3 hour train ride back to Grindelwald and got ready to say goodbye to the Jungfraujoch region
 
+<img src="//img.myswitzerland.com/mys/n49467/images/buehne/lungern_lungerersee_qgr_cp_d704420.jpg" alt="" title="" border="0" />Lungern Switzerland	
+
 ##### Day 6
 
-* Left for Zermatto enjoy the [Matterhorn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Matterhorn_-_Zmuttgrat.jpg/1024px-Matterhorn_-_Zmuttgrat.jpg)
+* Left for Zermatto enjoy the Matterhorn
 * The train ride was incredible, it was part of the Glacier Express train
-* Unfortunately when we  reached the [hotel](https://t-ec.bstatic.com/images/hotel/max1024x768/524/52497153.jpg) the weather did not cooperate with us in Zermat
+* Unfortunately when we  reached the hotel the weather did not cooperate with us in Zermat
 * It rained the whole day, we stayed indoors and enjoyed a quite dinner at an Italian restaurant
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Matterhorn_-_Zmuttgrat.jpg/1024px-Matterhorn_-_Zmuttgrat.jpg">Matterhorn
+
+<img src="https://t-ec.bstatic.com/images/hotel/max1024x768/524/52497153.jpg">Zermat Hotel
 
 ##### Day 7
 
@@ -103,17 +126,19 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * It is a small town, in a small country
 * After a quick taxi ride, we visited the Old Town (Taxi fare 5 euro)
 * The taxi's were old, run down Mercedez sedans, traffic was light and the drivers eager to drop you off at your destination and pick up the next passenger
-* The Old Town had narrow lanes, filled with vendors trying to sell souvenirs. The only attraction was the [Old Bar fort](https://en.wikipedia.org/wiki/Stari_Bar#/media/File:The_wall_of_Stari_Bar.jpg), which we skipped and enjoyed nice coffee and baklava instead
+* The Old Town had narrow lanes, filled with vendors trying to sell souvenirs. The only attraction was the [Old Bar fort](https://en.wikipedia.org/wiki/Stari_Bar#/media/File:The_wall_of_Stari_Bar.jpg) which we skipped and enjoyed nice coffee and baklava instead
 * I am glad we got to spend some time here, and we can check off Montenegro from the list of countries visited. The people were friendly, food was good, weather was Mediterranean and for some reason there were many cats
 
 ##### Day 11
 
-Corfu
-
+* The next port of call was Corfu, Greece
+* Corfu is a small greek island, close to southern Italy. After disembarking, we got a taxi (again Mercedes) and the driver took us to a small but beautiful beach [Agios Spiridon Beach](https://www.youtube.com/watch?v=lbQU_0aA-78) in Paleokastritsa <img src="http://images.greece.com/panoramio/07/18/03/27/596dfebea6349.jpg">
+* We got on a small boat, and went exploring small caves and grottos. The water was blue and clear, and surrounded by high cliffs and rock formation.
+* After the boat ride we went to a restaurant Vrachos Palaiokastritsa. We ate salad with cheese, pasta, bread and hummus and wine. The food and the sunset summed up a great day in corfu.
 
 ##### Day 12
 
-Santorini
+* The next port of call in Santorini
 
 ##### Day 13
 
