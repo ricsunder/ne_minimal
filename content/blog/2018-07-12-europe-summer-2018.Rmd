@@ -194,8 +194,27 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * Took the early afternoon flight back to good'ol USA
 
 
+```{r swiss map, echo=FALSE, warning=FALSE,message=FALSE}
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = 8.4666749, lat = 47.3775499, label = 'Zurich') %>%
+  addMarkers(lng = 7.8228105, lat = 46.6845535, label = 'Interlaken') %>%
+  addMarkers(lng = 7.9707348, lat = 46.6197715, label = 'Grindlewald') %>%
+  addMarkers(lng = 7.9011553, lat = 46.5983824, label = 'Lauterbrunnen') %>%
+  addMarkers(lng = 7.892257, lat = 46.64044, label = 'Zweilütschinen') %>%
+  addMarkers(lng = 7.8490376, lat = 46.5478793, label = 'Schilthorn') %>%
+  addMarkers(lng = 7.9629635, lat = 46.5497149, label = 'Jungfraujoch') %>%
+  addMarkers(lng = 7.9524704, lat = 46.5850292, label = 'Kleine Scheidegg') %>%
+  addMarkers(lng = 8.4290156, lat = 46.7720618, label = 'Mt Titlis') %>%
+  addMarkers(lng = 8.0943898, lat = 46.7872862, label = 'Lungern') %>%
+  addMarkers(lng = 7.60186, lat = 45.9907379, label = 'Zermat')
 
 
+```
+
+
+addMarkers(lng = 12.336283, lat = 45.4341705, label = 'St Marks Square') %>%
 
 
 
