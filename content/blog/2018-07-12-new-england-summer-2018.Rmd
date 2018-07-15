@@ -89,7 +89,7 @@ leaflet() %>%
 * It is a stunning hotel with beautiful views
 * All of us dreamed of celebrating an upcoming wedding here
 
-<img src="http://johntcyrandsons.com/files/2017/11/MT.-WASH.-HOTEL-1.jpg?w=1060&a=t">Mt Washington
+<img src="https://www.brettonwoods.com/~/media/BrettonWoods/PhotoGalleryRelatedPhotos/06-21-18%20Blue%20Skies%20Green%20Mountains%20POD.jpg">Mt Washington
 <br>
 <img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/06/36/de/44/mount-washington-auto.jpg"/>Tip top house built in 1853
 <br>
