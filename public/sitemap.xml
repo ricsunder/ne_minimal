@@ -3,56 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/blog/new-england-summer-2018/</loc>
+    <loc>/blog/new-england-summer-2018/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/europe-summer-2018/</loc>
+    <loc>/blog/europe-summer-2018/</loc>
     <lastmod>2017-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/puerto-rico-2016/</loc>
+    <loc>/blog/puerto-rico-2016/</loc>
     <lastmod>2016-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2015-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/2018-07-12-europe-summer-2018/</loc>
+    <loc>/2018-07-12-europe-summer-2018/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/home/</loc>
+    <loc>/home/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/license/</loc>
+    <loc>/license/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
