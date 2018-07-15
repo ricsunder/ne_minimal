@@ -220,7 +220,7 @@ leaflet() %>%
 
 leaflet() %>%
   addTiles() %>%
-  addMarkers(lng = 12.336283, lat = 45.4341705, label = 'St Marks Square') %>%
+  addMarkers(lng = 12.336283, lat = 45.4341705, label = 'Venice') %>%
   addMarkers(lng = 19.0862062, lat = 42.0983657, label = 'Bar, Montenegro') %>%
   addMarkers(lng = 19.9016166, lat = 39.6295488, label = 'Corfu, Greece') %>%
   addMarkers(lng = 25.378594, lat = 36.461938, label = 'Santorini, Greece') %>%
