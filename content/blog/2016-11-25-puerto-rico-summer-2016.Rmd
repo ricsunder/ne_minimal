@@ -1,9 +1,0 @@
----
-title: "Puerto Rico"
-author: ''
-date: '2016-11-23'
-slug: puerto-rico-2016
-categories: []
-tags: []
----
-

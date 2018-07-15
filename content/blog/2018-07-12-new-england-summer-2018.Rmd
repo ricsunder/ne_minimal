@@ -145,7 +145,7 @@ leaflet() %>%
 <br>
 
 
-```{r, Day 4, message=FALSE,echo=FALSE, cache=TRUE}
+```{r, Day 4, message=FALSE,echo=FALSE, cache=FALSE}
 
 mt_wash_cog <- image_read("~/Documents/VT_Trip/VT_trip/mt_wash_rail.jpg")
 cog <- image_read("~/Documents/VT_Trip/VT_trip/cog_rail.jpg")
