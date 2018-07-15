@@ -21,20 +21,20 @@ library(leaflet)
 ##### Day 1 
 
 * As hurricane harvey was approaching US the trip was in serious doubt. But luckily the planes left before the hurricane made landfall.
-* Next day landed in Zurich
-* Took the train from Zurich to Bern, Bern to Interlaken, Interlaken to Grindelwald
-* Reached [Grindlewald hotel] around 4 pm
-* Had pizza for greasy pizza for dinner, then had a relaxing evening while a band played American country music
+* We landed next day in Zurich
+* Took the train from Zurich to Bern, then Bern to Interlaken, and then Interlaken to Grindelwald
+* Reached Grindlewald hotel around 4 pm
+* Had greasy pizza for dinner, then had a relaxing evening while a band played American country music
+
+<img src="https://img.myswitzerland.com/mys/n49452/images/buehne/aussenansicht_kreuz__post.jpg">Grindelwald Hotel
 
 
 ##### Day 2
 
 * Took the [gondola](https://www.youtube.com/watch?v=JWHmG99jlwU) up to First Cliff Walk, and enjoyed some amazing views of the Alps
-* Then hiked to a nearby lake Bachalpsee and took some more pictures of the peaks in reflecting water.
-* After the gondola and hike everybody was hungry and craving for some good food and [Golden India restaurant](https://www.google.com/maps/place/Golden+India/@46.6244728,7.9753073,12z/data=!4m8!1m2!2m1!1sGolden+India!3m4!1s0x478f9bf95116ebdd:0x6499491bcf71838!8m2!3d46.6244583!4d8.0430548) fulfilled all the cravings.
-* After dinner enjoyed some [mini golf](https://www.google.com/maps/search/mini+golf/@46.6232805,8.0389147,19.66z) as sunset behind Mount Eiger
-
-<img src="https://img.myswitzerland.com/mys/n49452/images/buehne/aussenansicht_kreuz__post.jpg">Grindelwald Hotel
+* Then hiked to a nearby lake Bachalpsee and took some more pictures of the peaks in the reflecting water.
+* After the gondola ride and hike everybody was hungry and craving for some good food and [Golden India restaurant](https://www.google.com/maps/place/Golden+India/@46.6244728,7.9753073,12z/data=!4m8!1m2!2m1!1sGolden+India!3m4!1s0x478f9bf95116ebdd:0x6499491bcf71838!8m2!3d46.6244583!4d8.0430548) satisfied all the cravings.
+* After dinner enjoyed some [mini golf](https://www.google.com/maps/search/mini+golf/@46.6232805,8.0389147,19.66z) as the sun set behind Mount Eiger
 
 <img src="https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1320/v1479810701/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Sommer-Cliff-Walk-Eiger-Moench-Jungfrau.jpg">First Cliff Walk
 
@@ -45,12 +45,12 @@ library(leaflet)
 ##### Day 3
 
 * After enjoying made to order omelete and musli for breakfast, we left for Lauterbrunnen
-* From there took the bus to Stechelberg and four different Gondolas to reach Schilthorn
+* From there we took the bus to Stechelberg and four different Gondolas to reach Schilthorn
 * We passed small villages of Wengen, Gimmewald and Murren as we traveled
 * The final destination for the gondola was Piz Gloria revolving restaurant
 This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_Gloria) and offered spectacular views of all the major Alps peaks
 * After lunch at the restaurant, we proceeded to [Birg Skywalk](https://vimeo.com/206105774). The sky walk will test your fear of heights. 
-* The Lauterbrunnen Valley offered incredible views of the mountains and has 72 waterfalls. The most famous is the Trümmelbach Falls
+* The Lauterbrunnen Valley is surrounded by incredible views of the mountains and has 72 waterfalls. The most famous is the Trümmelbach Falls
 
 <img src="https://img.myswitzerland.com/mys/n65937/images/buehne/piz_gloria_muerren.jpg">Piz Gloria Restaurant
 
@@ -60,13 +60,13 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 
 ##### Day 4
 
-* After an amazing day at Schilthorn, it was onto Jungfraujoch. Also know as "Top of Europe".
-* We started early morning and were lucky to get seats on the train without reservation.
+* After an amazing day at Schilthorn, it was onto Jungfraujoch. Also known as "Top of Europe".
+* We started early in the morning and were lucky to get seats on the train without reservation.
 * We took the train from Grindelwald to Kleine Scheidegg, and then a special mountain [train](https://www.youtube.com/watch?v=tVxONJO3-rs) up to Jungfraujoch
 * The train traveled through some of the best sceneries in Swizerland. We travelled through mountains, tunnels and enjoyed views of glaciers.
 * After reaching the top we spent the whole day having fun on the snow.
 * After getting down, we enjoyed good lunch at Kleine Scheidegg, and a short hike.
-* After reaching the hotel around 4 pm, we still have the whole evning left and decided to take the train to Interlaken. We rented bicyles and strolled around the city and the lake.
+* After reaching the hotel around 4 pm, we still had the whole evning left and decided to take the train to Interlaken. We rented bicyles and strolled around the city and the lake.
 
 <img src="https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1410/v1499772463/fileadmin/Jungfraujoch_Top_of_Europe/Jungfraujoch-Sphinx-Gletscher-Sonnenuntergang.jpg">Jungfraujoch
 
@@ -86,7 +86,7 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 
 ##### Day 6
 
-* Left for Zermatto enjoy the Matterhorn
+* Left for Zermat to enjoy the Matterhorn
 * The train ride was incredible, it was part of the Glacier Express train
 * Unfortunately when we  reached the hotel the weather did not cooperate with us in Zermat
 * It rained the whole day, we stayed indoors and enjoyed a quite dinner at an Italian restaurant
@@ -99,13 +99,14 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 
 * The rain finally stopped the next day but the day was overcast
 * We could not take the train to the Matterhorn, so decided to split
-* One group went hiked to the suspension bridge from Randa
-* The hike was about 5.5 km each way. The bridge was at a height of 2000 meters and 494 meters long.
+* One group went on a hike to the suspension bridge near Randa
+* The hike was about 5.5 km each way from Randa station. The bridge was at a height of 2000 meters and 494 meters long.
 * Other group went to the [Gorner Gorge](https://www.youtube.com/watch?v=faov0Vb2D70)
 * Had cake that evening on a special occasion
 
 <img src="https://www.outdooractive.com/img//800/23754898/.jpg">Suspension Bridge
 
+<img src="https://www.outdooractive.com/img/800//23754896/.jpg">Bridge
 
 
 ##### Day 8
@@ -135,31 +136,37 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * First Port of call was Bar, Montenegro
 * It was really a last minute substitution for Kotor
 * It is a small town, in a small country
-* After a quick taxi ride, we visited the Old Town (Taxi fare 5 euro)
-* The taxi's were old, run down Mercedez sedans, traffic was light and the drivers eager to drop you off at your destination and pick up the next passenger
+* After a quick taxi ride, we visited the Old Town (Taxi fare 5 euros)
+* The taxis were old run down Mercedes sedans. Traffic was light and the drivers eager to drop you off at your destination and pick up the next passenger
 * The Old Town had narrow lanes, filled with vendors trying to sell souvenirs. The only attraction was the Old Bar fort which we skipped and enjoyed nice coffee and baklava instead
 * I am glad we got to spend some time here, and we can check off Montenegro from the list of countries visited. The people were friendly, food was good, weather was Mediterranean and for some reason there were many cats
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Stari_Bar%2C_Montenegro%2C_2014-04-18%2C_DD_02.JPG"><br>Bar Fort
 
 ##### Day 11
 
 * The next port of call was Corfu, Greece
 * Corfu is a small greek island, close to southern Italy. After disembarking, we got a taxi (again Mercedes) and the driver took us to a small but beautiful beach [Agios Spiridon Beach](https://www.youtube.com/watch?v=lbQU_0aA-78) in Paleokastritsa 
-* We got on a small boat, and went exploring small caves and grottos. The water was blue and clear, and surrounded by high cliffs and rock formation.
-* After the boat ride we went to a restaurant Vrachos Palaiokastritsa. We ate salad with cheese, pasta, bread and hummus and wine. The food and the sunset summed up a great day in corfu.
+* We got on a small boat, and went exploring the caves and grottos. The water was blue and clear, and surrounded by high cliffs and rock formation.
+* After the boat ride we went to a restaurant Vrachos Palaiokastritsa. We ate salad with cheese, pasta, bread and hummus and wine. The food and the sunset concluded a great day in Corfu.
 
 <img src="http://images.greece.com/panoramio/07/18/03/27/596dfebea6349.jpg" title = "Paleokastritsa">Paleokastritsa
+
+<img src="https://cdn.pixabay.com/photo/2016/10/27/19/30/greece-1776215_960_720.jpg"><br>Boats
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%9A%D0%BE%D1%80%D1%84%D1%83%2C_%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BA%D0%B0%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%B0_-_panoramio.jpg"><br> Grotto
 
 <img src="https://media-cdn.tripadvisor.com/media/photo-s/0e/ca/94/53/vrachos-palaiokastritsa.jpg">Vrachos restaurant from tripadvisor
 
 ##### Day 12
 
-* The next port of call in Santorini and the boat docked at 11 am
-* The cruise ship docks away from port in Santorini and then you take a smaller boat to the island. Since the water was choppy that day the disembarkation process was chaotic.
+* The next day the cruise docked at 11 am and the port of call was Santorini
+* The cruise ships dock away from port in Santorini and then you take a smaller boat to the island. Since the water was choppy that day the disembarkation process was slow and chaotic.
 * After waiting a while, we finally disembarked and reached the island. The process was not easy.
-* We only had a few hours to spend, and it was very crowded in the market
+* We only had a few hours to spend, and it was very crowded in the Oia market
 * We managed to get a few pictures, get a meal and drinks and shop for some souvenirs
 * The sunset was pretty, but we watched it from the line to get back on the ship
-* Given the logistical challenges one day is not enough, 2-3 day trip is required to fully enjoy the island
+* Given the logistical challenges one day is not enough, maybe 2-3 day trip is required to fully enjoy the island
 
 <img src="https://travel.usnews.com/static-travel/images/destinations/73/gettyimages-462922955.jpg">Santorini
 
@@ -169,23 +176,24 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 
 * Mykonos was the last port of call in Greece
 * Mykonos has a reputation for being a party island, and we decided to relax at the beach
-* We went to paradise beach and had drinks at the bar and relaxed 
-* This was a much need rest after two weeks of travel
+* We went to the paradise beach and had a few drinks at the bar and relaxed 
+* This was a much needed rest after two weeks non stop travel
 * Later we enjoyed a nice meal by the water and shopped for more souvenirs
 
-<img src="https://t-ec.bstatic.com/images/hotel/max1024x768/584/5844794.jpg">Paradise Beach
+<img src="https://t-ec.bstatic.com/images/hotel/max1024x768/584/5844794.jpg"><br>Paradise Beach
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Elias_Beach_on_Mykonos.JPG"><br> Paradise Beach
 
 ##### Day 14
 
 * After almost two weeks of travel we were somewhat tired, but Dubrovnik is a special place and we were excited
 * Unfortunately the weather was really bad (it was raining and there were very high winds)
 * Despite this we decided to visit the Red Keep
-* The windy/rainy weather made it extremely challenging to walk around the castle. The castle walls were about waist high and it was both scary and exciting to walk around
-* After the visit we went to our favorite restaurant Dubravka and enjoyed pizza. As were eating the rain stopped and we got a slight view of blue sky, but it was short lived and it started raining again.
+* The windy/rainy weather and many other tourist made it extremely challenging to walk around the castle. The castle walls were about waist high and it was both scary and exciting to walk around
+* After the visit we went to our favorite restaurant Dubravka and enjoyed pizza. As we were eating the rain stopped and we got a slight view of the blue sky, but it was short lived and it started raining again.
 
-<img src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Croatia/Dubrovnik/dubrovnik-overview-xlarge.jpg">Dubrovnik
+<img src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Croatia/Dubrovnik/dubrovnik-overview-xlarge.jpg"><br>Dubrovnik
 
-<img src="https://www.godubrovnik.guide/wp-content/uploads/2016/05/restaurant-dubravka-godubrovnik-guide-1.jpg">Dubravka Restaurant
+<img src="https://www.godubrovnik.guide/wp-content/uploads/2016/05/restaurant-dubravka-godubrovnik-guide-1.jpg"><br>Dubravka Restaurant
 
 
 ##### Day 15
@@ -193,7 +201,7 @@ This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_
 * Reached Venice
 * Took the early afternoon flight back to good'ol USA
 
-####### Swiss Map
+####### Swiss route Map
 ```{r swiss map, echo=FALSE, warning=FALSE,message=FALSE}
 
 leaflet() %>%
@@ -215,7 +223,7 @@ leaflet() %>%
 
 
 
-####### Cruise Map
+####### Cruise route Map
 ```{r cruise,echo=FALSE}
 
 leaflet() %>%

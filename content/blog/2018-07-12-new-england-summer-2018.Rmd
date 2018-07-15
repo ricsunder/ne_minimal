@@ -32,8 +32,8 @@ ne
 * Dinner at [Frank Pepe Pizza](https://en.wikipedia.org/wiki/Frank_Pepe_Pizzeria_Napoletana#cite_note-28)
 * Started driving towards Barnet, VT at around 8.00 pm
 * Reached the rented house at 1.30 am. It was an adventure to locate the house late at night with no cell phone reception.
-* The house was impressive, location was great and it was located in the woods.
-* You could hear owls at night and their sound would echo from the near by mountains.
+* The house was impressive, location was great and it felt that there was no other soul around us.
+* You could hear owls at night and their sound would echo from the nearby mountains.
 
 <img src='https://a.abcnews.com/images/Lifestyle/HT_frank_pepes_pizza_jtm_140320_16x9_608.jpg'><br>Frank Pepe,New Haven
 <br>
@@ -50,7 +50,7 @@ ne
 ### Day 2 June 30
 
 * Woke up at sunrise
-* Had breakfast outside
+* Had breakfast outside on outside lawn
 * Left to see Flume Gorge falls
 * Enjoyed a nice hike up to the falls
 * Came home and made some important life decisions over dinner.
@@ -73,9 +73,9 @@ leaflet() %>%
 
 ### Day 3 July 1, Canada Day
 
-* Woke up again at sunrise (Rooms have no curtains)
+* Woke up again at sunrise (Rooms had no curtains)
 * After breakfast relaxed in the morning and left for Mount Washington in the afternoon
-* Ate Lunch at Chang's Thai in Littleton, enjoyed the thai tea with coconut cream
+* Ate Lunch at Chang's Thai in Littleton, some of us enjoyed the thai tea with coconut cream
 * Littleton is a charming town in New Hampshire
 * Ate ice cream at Bishops home made ice cream
 * Drove to Mt Washington, it is one of the coldest places on earth
@@ -85,7 +85,7 @@ leaflet() %>%
 * The road was narrow and driving was [challenging](https://www.youtube.com/watch?v=Cu0VHabvp2A)
 * On Mt Washington, we walked up to the summit, visited the tip top house, and hiked a little
 * On the way back we visited [Mt Washington Hotel](https://www.youtube.com/watch?v=rQ0gMtD28h4)
-* It was the place where leaders from 44 nations gathered to form the Iternational Monetary Fund in 1944
+* It was at this location leaders from 44 nations gathered to form the Iternational Monetary Fund in 1944
 * It is a stunning hotel with beautiful views
 * All of us dreamed of celebrating an upcoming wedding here
 
@@ -117,9 +117,9 @@ leaflet() %>%
 * Had lunch again in Littleton
 * After lunch, took the Cog Wheel train up the Mountain
 * The Cog Wheel train in New Hampshire is the first such mountain train
-* It was built in 1868, it shows the vision and willpower of Slyvester Marsh
+* It was built in 1868, it shows the vision and willpower of Slyvester Marsh - the man behind the project 
 * It was a 45 minute journey up.
-* Enjoyed the beautiful views from the mountain, hiked a little
+* We enjoyed the beautiful views from the mountain, and went for a short hike
 * It appears that everybody in the group love mountain views and hikes
 
 <img src="https://mk0cog66vrt6o6ipng2y.kinstacdn.com/wp-content/uploads/2017/11/194_Cog3.jpg">
@@ -142,8 +142,8 @@ leaflet() %>%
 * Started driving towards Canada
 * The scenery between Vermont and Canada makes you feel like you are in Switzerland
 * Border crossing was easy and drive to Montreal was without much difficulty
-* But the weather was not the best we had hoped for.
-* This was one of the hottest weeks in North America with temperatures reaching above 95'
+* But the weather was not the best.
+* This was one of the hottest weeks in North America with temperatures reaching above 95'F
 * After lunch we visited the Basilica and started driving back to our House
 * It cooled down in the evening.
 * Enjoyed a relaxing evening on Lake Harvey, it was a beautiful end to the overall trip
@@ -159,10 +159,10 @@ leaflet() %>%
 
 ### Day 6, July 4th Happy Independence Day
 
-* Strated driving back to New York
+* Started driving back to New York
 * Had Frank Pepe Pizza(again)
 * Reached New York City around 5.30 pm
-* Watched Coco Movie and ate Kichdi and ice cream (Ben & Jerry's)
+* Watched Coco Movie and ate Khichdi and ice cream (Ben & Jerry's)
 * Went to the rooftop and watched the July 4th Fireworks and Empire State Building
 
 
@@ -180,7 +180,7 @@ leaflet() %>%
   addMarkers(lng = -72.917228, lat = 41.303193, label = 'Frank Pepe\'s Pizza') %>%
   addMarkers(lng = -73.556172, lat = 45.504447, label = 'Notre Dame Basilica') %>%
   addMarkers(lng = -74.176998, lat = 40.690399, label = 'Newark Airport') %>%
-  addMarkers(lng = -74.000541, lat = 40.761253, label = 'New York City')
+  addMarkers(lng = -73.985254, lat = 40.748296, label = 'New York City')
   
   
   
