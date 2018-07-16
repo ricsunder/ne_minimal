@@ -25,7 +25,7 @@ library(leaflet)
 ##### Day 1, Oct 27 2014
 
 * Left from LA on Oct 26th to Papeete and then from Papeete to Auckland (Air Tahiti Nui)
-* Arrived in Auckland in the afternoon of Oct 27th, and checked into the Waldorf Stadium Apartment Hotel
+* Arrived in Auckland on the afternoon of Oct 27th, and checked into the Waldorf Stadium Apartment Hotel
 * Since we were travelling with an infant we selected a hotel with kitchen
 * The apartments had kitchen and other facilities to cook our own food
 * Had pizza for Dinner and then walked around the city and went grocery shopping
@@ -35,14 +35,14 @@ library(leaflet)
 ##### Day 2, Oct 28th 2014
 
 * The day was overcast and it was misty outside and we decided to go away from Auckland
-* After nice breakfast, went to the Ferry Terminal
+* After a nice breakfast, we went to the Ferry Terminal
 * Took a Ferry to Waiheke Island
-* After arriving at the ferry Terminal, we walked to the Oneroa beach. The walk was pleasant and we passed through small house. We were surprised to find out many were listed above $500K
+* After arriving at Waiheke, we walked to the Oneroa beach. The walk was pleasant and we passed through small house. We were surprised to find out many were listed above $500K
 * The water was cold, but we still enjoyed the secluded beach to ourself
 * Ater that we went to Vino Vino restaurant and enjoyed coffee and snacks
 * To catch the last ferry, we took the bus back to ferry Terminal
 * Arrived in Auckland later in the evening. Since it was raining we stayed indoors, but 3 from the group decided to go out and see the nightlife
-* We found people were genuinely interest in talking with foreigners
+* We found people were genuinely interested in talking with foreigners
 
 <img src="https://www.newshub.co.nz/dam/form-uploaded-images/waiheke-island-auckland-GettyImages-519392856-1120.jpg"><br> Oneroa Beach
 <br/>
@@ -87,7 +87,7 @@ library(leaflet)
 
 * This hotel had many tourist especially from India and they had Poha for breakfast. Needless to say we were very happy to have that
 * After breakfast we took the bus to the town of Littleton
-* We took to the Gondola up the mountain
+* We took the Gondola up the mountain
 * After getting to the top, enjoyed a good meal with cappucino (they were so much better than Starbucks)
 * Then the youngest member to the oldest member of the group went for a hike
 * After coming down, we took another bus to International Antartic Centre
@@ -155,7 +155,7 @@ Chicken Vindaloo
 ##### Day 8, Nov 2 2014
 
 * The next morning after breakfast we continued our journey towards Wanaka
-* We drove through more mountains and waterfalls and some great scenice views for photos
+* We drove through more mountains and waterfalls and some great scenic views for photos
 * Lake Wanaka had a mixture of emerald and blue color, and it appeared to be untouched by humanity.
 * We checked into our hotel which was a nice place, with big lawns and water views.
 * We rented some bicycles and drove them around the water and into town
@@ -183,7 +183,7 @@ Chicken Vindaloo
 
 * Left early morning for the gloworm caves
 * Got onto a ferry, that took us to the caves
-* The excusion had everything from short hike, gorges and gloworm caves
+* The excursion had everything from short hike, gorges and gloworm caves
 * We had to wake up early the next day to leave for Milford Sound, and so decided to eat a quick meal
 * Dinner was made to go and we ate in the hotel room, there was an Indian restaurant that delivered the food
 
@@ -195,7 +195,7 @@ Chicken Vindaloo
 * Next day the group was split into two based on the excursions. One group opted for sea kayaking and the other was on the cruise
 * We drove about 2 hours to get to the sounds
 * Once there, we put on our wet suits and gear and left for kayaking
-* The kayaking was a great experience, we saw some beautiful sceneries and had great lunch by the Bowen Falls
+* The sea kayaking was a great experience, we saw some beautiful sceneries and had great lunch by the Bowen Falls
 * The water was so clean I decided to drink that instead of the bottled water
 * After Milford sound we were tired and happy to check in one last time into our hotel in Queenstown
 
@@ -242,7 +242,7 @@ Chicken Vindaloo
 
 * Left New Zealand. Flight out from Queenstown to Auckland, then Auckland to Papeete
 * We had a 2 nights free in Tahiti deal with our air tickets
-* But since we reached Tahiti late at night we select a hotel near the airport
+* But since we reached Tahiti late at night we selected a hotel near the airport
 * It was disappointing, the night manager was rude, and it appears that he may had assigned our rooms to someone else
 * After an intense argument, we got more rooms, but we didnt sleep well
 * The next morning the main manager offered a free bus ride to our next hotel which was 30 mins away
@@ -253,7 +253,7 @@ Chicken Vindaloo
 * The next morning we left for Moorea island
 * The water there was so clear that you could see the fish swimming underneath and it was shallow so no swimming was required
 * We went on our excusrsion which was to swim with the sharks and stingrays
-* It was incredibly thrilling to be surrounded by potentially deadly animals. Although they were domesticated, you never know what may piss them off
+* It was incredibly thrilling to be surrounded by potentially deadly animals. Although they were domesticated by seeing so many tourists, you never know what may piss them off
 * The tour did not have vegeterian food, so we managed with fruits and rice
 * For dinner we went to Downtown Papeete, to eat at the Les Roulottes (food trucks)
 
@@ -268,7 +268,7 @@ Chicken Vindaloo
 ##### Day 17, Nov 11 2014
 
 * Since our flight was at night, we spent the morning again at the resort pool
-* After some back and forth with the tour operator on not providing vegeterian food, the agreed to provide us a free airport transport
+* After some back and forth with the tour operator on not providing vegeterian food, they agreed to provide us a free airport transport
 * We left for the airport in the evening
 * There was an announcement at the airport that the fligt might get canceled, it was scary for a while, since everybody was missing good'ol USA and wanted to be back
 * Luckily the flight left on time and we made it home back home safely
