@@ -275,7 +275,7 @@ Chicken Vindaloo
 
 Places of Interest
 
-```{r}
+```{r maps, echo=FALSE,message=FALSE,warning=FALSE}
 
 leaflet() %>%
   addTiles() %>%
