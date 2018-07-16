@@ -1105,7 +1105,7 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
                     
                         
                     
-                    <div class="reading-time middot">9 minute read</div>
+                    <div class="reading-time middot">10 minute read</div>
                     <div class="tags">
                         <ul>
                           
@@ -1126,7 +1126,18 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
             <div class="markdown">
                 
     
-    <div id="new-zealand-fall-2014-trip" class="section level3">
+    <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/jquery/jquery.min.js"></script>
+<link href="/rmarkdown-libs/leaflet/leaflet.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/leaflet/leaflet.js"></script>
+<link href="/rmarkdown-libs/leafletfix/leafletfix.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/Proj4Leaflet/proj4-compressed.js"></script>
+<script src="/rmarkdown-libs/Proj4Leaflet/proj4leaflet.js"></script>
+<link href="/rmarkdown-libs/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/leaflet-binding/leaflet.js"></script>
+
+
+<div id="new-zealand-fall-2014-trip" class="section level3">
 <h3>New Zealand Fall 2014 Trip</h3>
 <div id="countries-visited-new-zealand-tahiti" class="section level4">
 <h4>Countries visited New Zealand &amp; Tahiti</h4>
@@ -1141,7 +1152,7 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 </ul>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1531702020103!6m8!1m7!1s-iZ4S3r8ic_UJ6e0mQ_cwg!2m2!1d-36.846900818703!2d174.7733286266014!3f56.86071863274936!4f22.36641157085637!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 </iframe>
-<p><Auckland Hotel></p>
+<p>Auckland Hotel</p>
 </div>
 <div id="day-2-oct-28th-2014" class="section level5">
 <h5>Day 2, Oct 28th 2014</h5>
@@ -1328,8 +1339,8 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 <li>We were really tired and spent the whole day at the resort pool and ate at the resort restaurant</li>
 </ul>
 </div>
-<div id="day-15-nov-10-2014" class="section level5">
-<h5>Day 15, Nov 10 2014</h5>
+<div id="day-16-nov-10-2014" class="section level5">
+<h5>Day 16, Nov 10 2014</h5>
 <ul>
 <li>The next morning we left for Moorea island</li>
 <li>The water there was so clear that you could see the fish swimming underneath and it was shallow so no swimming was required</li>
@@ -1343,8 +1354,8 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 <p><img src="https://www.wallpaperup.com/uploads/wallpapers/2014/08/18/424349/d4c167b9584926f5fde01c9b0aa1be1e-700.jpg"><br/>Moorea, Tahiti</p>
 <p><img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/01/8f/97/03/escursione-moorea-shark.jpg"/><br/>Moorea Sharks</p>
 </div>
-<div id="day-16-nov-11-2014" class="section level5">
-<h5>Day 16, Nov 11 2014</h5>
+<div id="day-17-nov-11-2014" class="section level5">
+<h5>Day 17, Nov 11 2014</h5>
 <ul>
 <li>Since our flight was at night, we spent the morning again at the resort pool</li>
 <li>After some back and forth with the tour operator on not providing vegeterian food, the agreed to provide us a free airport transport</li>
@@ -1352,6 +1363,26 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 <li>There was an announcement at the airport that the fligt might get canceled, it was scary for a while, since everybody was missing good’ol USA and wanted to be back</li>
 <li>Luckily the flight left on time and we made it home back home safely</li>
 </ul>
+<p>Places of Interest</p>
+<pre class="r"><code>leaflet() %&gt;%
+  addTiles() %&gt;%
+  addMarkers(lng = 174.7722704, lat = -36.8467222, label = &#39;Day 1 Auckland&#39;) %&gt;%
+  addMarkers(lng = 175.013346, lat = -36.783479, label = &#39;Day 2 Oneroa Beach&#39;) %&gt;%
+  addMarkers(lng = 174.817299, lat = -36.847100, label = &#39;Day 3 Kelly Tarlton&#39;) %&gt;%
+  addMarkers(lng = 172.637734, lat = -43.530499, label = &#39;Day 4 Christchurch&#39;) %&gt;%
+  addMarkers(lng = 172.707694, lat = -43.584904, label = &#39;Day 5 Gondola&#39;) %&gt;%
+  addMarkers(lng = 172.547159, lat = -43.488410, label = &#39;Day 5 Antartica Center&#39;) %&gt;%
+  addMarkers(lng = 170.984962, lat = -42.711568, label = &#39;Day 6 Hokitika&#39;) %&gt;%
+  addMarkers(lng = 170.183294, lat = -43.386634, label = &#39;Day 7 Franz Josef&#39;) %&gt;%
+  addMarkers(lng = 170.185088, lat = -43.384196, label = &#39;Day 7 King Tiger&#39;) %&gt;%
+  addMarkers(lng = 169.112252, lat = -44.695043, label = &#39;Day 8 Wanaka&#39;) %&gt;%
+  addMarkers(lng = 167.714079, lat = -45.419125, label = &#39;Day 9 Te Anau&#39;) %&gt;%
+  addMarkers(lng = 167.927280, lat = -44.671655, label = &#39;Day 11 Milford Sound&#39;) %&gt;%
+  addMarkers(lng = 168.662616, lat = -45.033448, label = &#39;Day 12-14 Queenstown&#39;) %&gt;%
+  addMarkers(lng = -149.614117, lat = -17.602579, label = &#39;Day 15 Papeete&#39;) %&gt;%
+  addMarkers(lng = -149.827741, lat = -17.539470, label = &#39;Day 16 Moorea&#39;)</code></pre>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[-36.8467222,174.7722704,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 1 Auckland",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-36.783479,175.013346,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 2 Oneroa Beach",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-36.8471,174.817299,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 3 Kelly Tarlton",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-43.530499,172.637734,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 4 Christchurch",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-43.584904,172.707694,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 5 Gondola",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-43.48841,172.547159,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 5 Antartica Center",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-42.711568,170.984962,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 6 Hokitika",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-43.386634,170.183294,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 7 Franz Josef",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-43.384196,170.185088,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 7 King Tiger",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-44.695043,169.112252,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 8 Wanaka",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-45.419125,167.714079,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 9 Te Anau",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-44.671655,167.92728,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 11 Milford Sound",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-45.033448,168.662616,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 12-14 Queenstown",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-17.602579,-149.614117,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 15 Papeete",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addMarkers","args":[-17.53947,-149.827741,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},null,null,null,null,"Day 16 Moorea",{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-45.419125,-17.53947],"lng":[-149.827741,175.013346]}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </div>

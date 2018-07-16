@@ -30,7 +30,7 @@ library(leaflet)
 * The apartments had kitchen and other facilities to cook our own food
 * Had pizza for Dinner and then walked around the city and went grocery shopping
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1531702020103!6m8!1m7!1s-iZ4S3r8ic_UJ6e0mQ_cwg!2m2!1d-36.846900818703!2d174.7733286266014!3f56.86071863274936!4f22.36641157085637!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><Auckland Hotel>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1531702020103!6m8!1m7!1s-iZ4S3r8ic_UJ6e0mQ_cwg!2m2!1d-36.846900818703!2d174.7733286266014!3f56.86071863274936!4f22.36641157085637!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>Auckland Hotel
 
 ##### Day 2, Oct 28th 2014
 
@@ -248,7 +248,7 @@ Chicken Vindaloo
 * The next morning the main manager offered a free bus ride to our next hotel which was 30 mins away
 * We were really tired and spent the whole day at the resort pool and ate at the resort restaurant
 
-##### Day 15, Nov 10 2014
+##### Day 16, Nov 10 2014
 
 * The next morning we left for Moorea island
 * The water there was so clear that you could see the fish swimming underneath and it was shallow so no swimming was required
@@ -265,7 +265,7 @@ Chicken Vindaloo
 
 <img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/01/8f/97/03/escursione-moorea-shark.jpg"/><br/>Moorea Sharks
 
-##### Day 16, Nov 11 2014
+##### Day 17, Nov 11 2014
 
 * Since our flight was at night, we spent the morning again at the resort pool
 * After some back and forth with the tour operator on not providing vegeterian food, the agreed to provide us a free airport transport
@@ -273,7 +273,30 @@ Chicken Vindaloo
 * There was an announcement at the airport that the fligt might get canceled, it was scary for a while, since everybody was missing good'ol USA and wanted to be back
 * Luckily the flight left on time and we made it home back home safely
 
+Places of Interest
 
+```{r}
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = 174.7722704, lat = -36.8467222, label = 'Day 1 Auckland') %>%
+  addMarkers(lng = 175.013346, lat = -36.783479, label = 'Day 2 Oneroa Beach') %>%
+  addMarkers(lng = 174.817299, lat = -36.847100, label = 'Day 3 Kelly Tarlton') %>%
+  addMarkers(lng = 172.637734, lat = -43.530499, label = 'Day 4 Christchurch') %>%
+  addMarkers(lng = 172.707694, lat = -43.584904, label = 'Day 5 Gondola') %>%
+  addMarkers(lng = 172.547159, lat = -43.488410, label = 'Day 5 Antartica Center') %>%
+  addMarkers(lng = 170.984962, lat = -42.711568, label = 'Day 6 Hokitika') %>%
+  addMarkers(lng = 170.183294, lat = -43.386634, label = 'Day 7 Franz Josef') %>%
+  addMarkers(lng = 170.185088, lat = -43.384196, label = 'Day 7 King Tiger') %>%
+  addMarkers(lng = 169.112252, lat = -44.695043, label = 'Day 8 Wanaka') %>%
+  addMarkers(lng = 167.714079, lat = -45.419125, label = 'Day 9 Te Anau') %>%
+  addMarkers(lng = 167.927280, lat = -44.671655, label = 'Day 11 Milford Sound') %>%
+  addMarkers(lng = 168.662616, lat = -45.033448, label = 'Day 12-14 Queenstown') %>%
+  addMarkers(lng = -149.614117, lat = -17.602579, label = 'Day 15 Papeete') %>%
+  addMarkers(lng = -149.827741, lat = -17.539470, label = 'Day 16 Moorea')
+  
+
+```
 
 
 
