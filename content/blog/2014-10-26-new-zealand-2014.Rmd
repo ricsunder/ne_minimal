@@ -1,0 +1,293 @@
+---
+title: New Zealand 2014
+author: ''
+date: '2014-10-26'
+slug: new-zealand-2014
+categories: []
+tags: []
+description: Desc
+hacker_news_id: ''
+lobsters_id: ''
+meta_img: /images/image.jpg
+---
+
+```{r, echo=FALSE, include=FALSE}
+library(magick)
+library(tidyquant)
+library(leaflet)
+
+```
+
+### New Zealand Fall 2014 Trip
+
+#### Countries visited New Zealand & Tahiti
+
+##### Day 1, Oct 27 2014
+
+* Left from LA on Oct 26th to Papeete and then from Papeete to Auckland (Air Tahiti Nui)
+* Arrived in Auckland in the afternoon of Oct 27th, and checked into the Waldorf Stadium Apartment Hotel
+* Since we were travelling with an infant we selected a hotel with kitchen
+* The apartments had kitchen and other facilities to cook our own food
+* Had pizza for Dinner and then walked around the city and went grocery shopping
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1531702020103!6m8!1m7!1s-iZ4S3r8ic_UJ6e0mQ_cwg!2m2!1d-36.846900818703!2d174.7733286266014!3f56.86071863274936!4f22.36641157085637!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><Auckland Hotel>
+
+##### Day 2, Oct 28th 2014
+
+* The day was overcast and it was misty outside and we decided to go away from Auckland
+* After nice breakfast, went to the Ferry Terminal
+* Took a Ferry to Waiheke Island
+* After arriving at the ferry Terminal, we walked to the Oneroa beach. The walk was pleasant and we passed through small house. We were surprised to find out many were listed above $500K
+* The water was cold, but we still enjoyed the secluded beach to ourself
+* Ater that we went to Vino Vino restaurant and enjoyed coffee and snacks
+* To catch the last ferry, we took the bus back to ferry Terminal
+* Arrived in Auckland later in the evening. Since it was raining we stayed indoors, but 3 from the group decided to go out and see the nightlife
+* We found people were genuinely interest in talking with foreigners
+
+<img src="https://www.newshub.co.nz/dam/form-uploaded-images/waiheke-island-auckland-GettyImages-519392856-1120.jpg"><br> Oneroa Beach
+<br/>
+<img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/03/55/27/b9/great-views-from-the.jpg"/></a><br/>Vino Vino restuarant
+
+##### Day 3, Oct 29th 2014
+
+* The sun was finally out
+* After breakfast we went to Kelly Tarlton's Sea Life aquarium
+* Since we did not have a car and this was pre-Uber era we were travelling everywhere by the local bus. This itself was an adventure
+* Aquarium had a diverse sea life and lots of penguins
+* After the aquarium we went to Little India restaurant to get lunch
+* It was almost late afternoon and we had a flight next day, so we just walked around the downtown area. Auckland is just like any major city, and in the future one can completely skip the northern island
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antarctic_Encounter.JPG/800px-Antarctic_Encounter.JPG"><br/>Kelly Tarlton's aquarium
+
+<br/>
+<img src="https://thumbnails.trvl-media.com/nP7RssPCP8DGaqUeUf55KJDvXk8=/a.travel-assets.com/mediavault.le/media/e94d648a2a47cfad57a02f54d120d394bb3c5389.jpeg"><br/>Aquarium
+
+<img src="https://thumbnails.trvl-media.com/P81CssnWNxUY3AgGBueLzr5OOOs=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/346/Auckland-Ferry-Terminal-180265.jpg"><br/>Auckland Ferry Terminal
+
+
+
+##### Day 4, Oct 30th 2014
+
+* After breakfast, went to the airport to take the early morning flight to Christchurch
+* The flight was another opportunity to see the New Zealand landscape of oceans, mountains and green pastures
+* We were picked up at the airport by our tour guide Gary
+* Checked into the hotel and explored the Christchurch area
+* It was sad to see all the devastation from the earthquake and the city was still recovering with many businesses being closed
+* Since most restaurant were not open, we ate dinner at Southern Asian Restaurant
+* This was different than many American Chinese restaurants
+* At night we decided to walk around the city, but the city was deserted and there were random shoes left around town
+* This freaked us out and we went to the hotel
+
+<img src="https://resources.stuff.co.nz/content/dam/images/1/f/8/6/u/s/image.related.StuffLandscapeSixteenByNine.620x349.1f83qh.png/1478132727768.jpg"><br/>Christchurh Hotel
+
+<img src="https://resources.stuff.co.nz/content/dam/images/1/f/g/3/w/y/image.related.StuffLandscapeSixteenByNine.620x349.1fdlly.png/1480227614902.jpg"><br/>Shoes
+
+
+##### Day 5, Oct 30th 2014
+
+* This hotel had many tourist especially from India and they had Poha for breakfast. Needless to say we were very happy to have that
+* After breakfast we took the bus to the town of Littleton
+* We took to the Gondola up the mountain
+* After getting to the top, enjoyed a good meal with cappucino (they were so much better than Starbucks)
+* Then the youngest member to the oldest member of the group went for a hike
+* After coming down, we took another bus to International Antartic Centre
+* There we got a glimpse of life on Antartica and we saw more Penguins
+* Had dinner again at the Chinese Restaurant
+
+<img src="http://chchattractions.co.nz/images/gallery/gondola-over-harbour.jpg"><br/>Gondola
+<br/>
+<img src="https://photos-03.shuttlerock-cdn.com/boards/black-cat-cruises/best-of-lyttelton-and-diamond-harbour/8f3d33801ff911e7ba26e369c2bc06c3/34002372025_7ec057c706_b/things-to-do-in-christchurch-736x600"><br/>Hike to Lyttleton
+<br/>
+
+<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/international-antarctic-centre-christchurch.jpg?height=530&outputformat=jpg&quality=75&source=4166959&transformationratio=1.3&transformationsystem=autoboxfit&width=940&securitytoken=4DE1D8BA0767E5A8BB57AB50B3B787FE"><br/>
+International Antartic Centre
+
+<br/>
+
+<img src="https://s3-ap-southeast-2.amazonaws.com/bookme-review-images/reviews/01eb97fc-da23-4988-b6b5-510bd266e07c.jpeg"><br/>
+
+
+##### Day 6, Oct 31th 2014
+
+* Our driver Gary, picked us up and dropped us at the Train Station
+* From there we took the Tranz Alpine Scenic Train
+* The train went from Christchurch to Greymouth. It cuts across the Southern Alps through Arthurs Pass
+* It was a scenic ride and we saw many mountains, lakes and waterfalls
+* After arriving at Greymounth Gary picked us up again at the station
+* From there we left for Hokitika. We had to pick another member of the family
+* Hokitika had nothing much to do, other than an airport
+* After the pickup, we left for Franz Josef
+* The drive along the western cost of New Zealand was beautiful. The ocean was inviting, but the water is just too cold and the winds are too high. Even the trees were bent
+* The town of Franz Josef provides an access to the two best glaciers - Franz Josef glacier and Fox Glaciers. We were excited to take the helicopter ride and booked it that evening
+* Had dinner at King Tiger restaurant. Best Chicken Vindaloo ever
+
+<img src="https://www.telegraph.co.uk/content/dam/travel/Spark/flights-to-new-zealand/new-zealand-Tranz-Alpine-train.jpg?imwidth=1400"><br/>Tranz Alpine Train
+
+<br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Jetstream_32_ZK-ECR%2C_Hokitika%2C_West_Coast%2C_New_Zealand%2C_24_April_2008_-_Flickr_-_PhillipC.jpg"><br/>Hokitika Airport
+
+<img src="">
+
+```{r vinda,echo=FALSE,message=FALSE}
+vin <- image_read("~/Documents/VT_Trip/Screen Shot 2018-07-15 at 9.38.24 PM.png")
+vin
+```
+<br/>
+Chicken Vindaloo
+
+##### Day 7, Nov 1 2014
+
+* The weather was not suitable for flying the helicopter and our Heli Glacier Hike tour was canceled
+* We were very disappointed, but flying in this region can be dangerous if the weather is bad. There was an accident, recently in this region
+* We decided to go on our own hike instead
+* Equipped with some umbrellas, ponchos and an infant in a stroller we started hiking towards Roberts point track
+* The hike had many waterfalls, small wooded bridges and rocky paths along the way. As we approached the glacier, it got very cold and it was also very breezy. We did not have proper jackets. Yet we managed to get some picture and headed back to the hotel
+* After the hike we were hungry and ate again at King Tiger restaurant. It was again Chicken Vindaloo
+
+<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/franz-josef-glacier.jpg?height=488&outputformat=jpg&quality=80&source=3906156&transformationsystem=crop&width=650&securitytoken=BDE0F184494CBA69567C6E3981051DFA"><br/>Glacier
+
+<br/>
+<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/franz-josef-glacier.jpg?height=488&outputformat=jpg&quality=80&source=1725527&transformationsystem=crop&width=650&securitytoken=C0B9D23D1810027AAC5E511E3782A992"><br/>Glacier
+
+
+
+##### Day 8, Nov 2 2014
+
+* The next morning after breakfast we continued our journey towards Wanaka
+* We drove through more mountains and waterfalls and some great scenice views for photos
+* Lake Wanaka had a mixture of emerald and blue color, and it appeared to be untouched by humanity.
+* We checked into our hotel which was a nice place, with big lawns and water views.
+* We rented some bicycles and drove them around the water and into town
+* The sun set was beautiful and we sat by the lake and enjoyed it
+* For dinner we had burritos and quesadillas at Amigos Mexican grill
+* We also met our tour agent, who was a very nice person
+
+<img src="http://www.tourismproperties.co.nz/__data/assets/image/0010/63883/37.LakeWanaka-view-over-town-SD.jpg"><br/>Lake Wanaka
+
+<br/>
+
+<img src="https://skitravelcompany.com.au/wp-content/uploads/2017/08/Edgewater-Aerial-View.jpg"><br/>Our resort Lake Wanaka
+
+##### Day 9, Nov 3 2014
+
+* After a day in Wanaka, we left for Te Anau
+* Got to Te Anau in the afternoon and checked in to the hotel
+* The group split here some went to eat Indian, others went for western meal
+* The group decided to rest for the evening
+
+<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/lake-te-anau.jpg?height=488&outputformat=jpg&quality=80&source=1539571&transformationsystem=crop&width=650&securitytoken=0511B21CC4328F189167708D03EFE6FF"><br/>Te Anau
+
+
+##### Day 10, Nov 4 2014
+
+* Left early morning for the gloworm caves
+* Got onto a ferry, that took us to the caves
+* The excusion had everything from short hike, gorges and gloworm caves
+* We had to wake up early the next day to leave for Milford Sound, and so decided to eat a quick meal
+* Dinner was made to go and we ate in the hotel room, there was an Indian restaurant that delivered the food
+
+<img src="https://dbijapkm3o6fj.cloudfront.net/resources/7452,1004,1,6,4,0,600,450/-4062-/20160203161535/waitomo-glowworm-caves.jpeg"><br/>Glowworm caves
+
+
+##### Day 11, Nov 5 2014
+
+* Next day the group was split into two based on the excursions. One group opted for sea kayaking and the other was on the cruise
+* We drove about 2 hours to get to the sounds
+* Once there, we put on our wet suits and gear and left for kayaking
+* The kayaking was a great experience, we saw some beautiful sceneries and had great lunch by the Bowen Falls
+* The water was so clean I decided to drink that instead of the bottled water
+* After Milford sound we were tired and happy to check in one last time into our hotel in Queenstown
+
+<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/kayaking-milford-sound.jpg?focalpointx=55.7&focalpointy=50&height=440&outputformat=jpg&quality=75&source=2305432&transformationsystem=focalpointcrop&width=1280&securitytoken=92B4BD82F31C9319CF98D4AFFDA1B642"><br/>Sea Kayak Milford Sound
+
+<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/cruising-towards-mitre-peak.jpg?focalpointx=50&focalpointy=50&height=440&outputformat=jpg&quality=75&source=2710792&transformationsystem=focalpointcrop&width=1280&securitytoken=A071C57C6EB06B04839DA1395FC95A87"><br/>Cruise Milford Sound
+
+<img src="https://cdn.experienceoz.com.au/assets/organisation/4493/banner/60333.jpg"><br/>Milford Sound
+
+##### Day 12, 13, 14, Nov 6,7,8 2014
+
+* Oh Queenstown! What a wonderful place!
+* Its a fun town with beautiful scenic views and thrilling adventure
+* We did paragliding, luge, hiking, ziplining, Shotoverjet, K-Jet  
+* Ate at the Stratosphere restaurant, Bella Cucina, Bombay Palace, Tham Nak Thai
+* Got local cheese and crackers and sat on a park bench (see below) and just enjoyed time
+* It was an amazing vacation and we thoroughly enjoyed New Zealand and will be back for more
+
+<img src="https://www.skyline.co.nz/media/1243/skyline-queenstown_home_remarkables-in-winter.jpg"><br/>Queenstown
+
+<img src="https://www.queenstownnz.co.nz/assets/Tourism-Operators/images/_resampled/CroppedFocusedImageWyIxOTAwIiwiOTAwIiwieSIsODRd/GFORCE-11.jpg"><br/>Paragliding
+
+<br/>
+
+<img src="https://www.skyline.co.nz/media/2144/skyline-queenstown_luge_header.jpg"><br/>Luge
+
+<br/>
+
+<img src="https://secure.foxyms.co.nz/files/uq/resources/cache/469x469/T/activitys/processed/Ziptrek_Ecotours_Portrait_Ziplining.jpg"><br/>Zipline
+
+<br/>
+
+<img src="https://www.queenstownnz.co.nz/assets/Tourism-Operators/images/_resampled/CroppedFocusedImageWyIxOTAwIiwiOTAwIiwieSIsMTg0XQ/Shotover-speeding-out-of-canyons-NEW-FACE3.jpg"><br/>Shotover Jet
+
+<br/>
+
+<img src="https://secure.foxyms.co.nz/files/uq/resources/cache/469x469/1/activitys/processed/Ultimate_Queenstown_-_Family_Thrills_KJet_-KJet_Kawarau_River.jpg"><br/>K-Jet
+
+<br/>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1531698386902!6m8!1m7!1sCAoSLEFGMVFpcFAtejJtYWRsUV9zMk9sY0dWVEZFM1Z3cHhQcnlhaXUxeHU4TVRJ!2m2!1d-45.03488971614956!2d168.6544226220208!3f233.32140223129588!4f-2.33970908410771!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br/>Famous cheese and crackers bench
+
+##### Day 15, Nov 9 2014
+
+* Left New Zealand. Flight out from Queenstown to Auckland, then Auckland to Papeete
+* We had a 2 nights free in Tahiti deal with our air tickets
+* But since we reached Tahiti late at night we select a hotel near the airport
+* It was disappointing, the night manager was rude, and it appears that he may had assigned our rooms to someone else
+* After an intense argument, we got more rooms, but we didnt sleep well
+* The next morning the main manager offered a free bus ride to our next hotel which was 30 mins away
+* We were really tired and spent the whole day at the resort pool and ate at the resort restaurant
+
+##### Day 15, Nov 10 2014
+
+* The next morning we left for Moorea island
+* The water there was so clear that you could see the fish swimming underneath and it was shallow so no swimming was required
+* We went on our excusrsion which was to swim with the sharks and stingrays
+* It was incredibly thrilling to be surrounded by potentially deadly animals. Although they were domesticated, you never know what may piss them off
+* The tour did not have vegeterian food, so we managed with fruits and rice
+* For dinner we went to Downtown Papeete, to eat at the Les Roulottes (food trucks)
+
+<img src="https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/125/2017/02/03081920/2.manava_suite_resort_tahiti_pool.jpg"><br/>Resort Pool where we spent most of the time
+
+<br/>
+
+<img src="https://www.wallpaperup.com/uploads/wallpapers/2014/08/18/424349/d4c167b9584926f5fde01c9b0aa1be1e-700.jpg"><br/>Moorea, Tahiti
+
+<img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/01/8f/97/03/escursione-moorea-shark.jpg"/><br/>Moorea Sharks
+
+##### Day 16, Nov 11 2014
+
+* Since our flight was at night, we spent the morning again at the resort pool
+* After some back and forth with the tour operator on not providing vegeterian food, the agreed to provide us a free airport transport
+* We left for the airport in the evening
+* There was an announcement at the airport that the fligt might get canceled, it was scary for a while, since everybody was missing good'ol USA and wanted to be back
+* Luckily the flight left on time and we made it home back home safely
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
