@@ -22,4 +22,4 @@ Start weight - 207.4
 
 9:30 AM - Green Tea
 
-![Tea](/img/tea1.jpg)
+![Green Tea](/img/tea1.jpg)
