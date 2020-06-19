@@ -1,0 +1,25 @@
+---
+title: Day 1
+author: ''
+date: '2020-06-19'
+categories: []
+tags: []
+description: Desc
+---
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+# Day 1
+
+Start weight - 207.4
+
+<video width="500" height="500" controls>
+  <source src="./vid/start.MOV" type="video/mp4">
+</video>
+
+9:30 AM - Green Tea
+
+![Tea](/img/tea1.jpg)
