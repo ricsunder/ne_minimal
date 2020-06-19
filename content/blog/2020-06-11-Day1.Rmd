@@ -20,6 +20,8 @@ Start weight - 207.4
   <source src="./vid/start.MOV" type="video/mp4">
 </video>
 
+### Breakfast
+
 9:30 AM - Green Tea
 
 ![Green Tea](/img/tea1.jpg)
@@ -31,6 +33,8 @@ Start weight - 207.4
 
 ![Eggs](/img/breakfast1.jpg)
 
+### Lunch
+
 1:15 PM
 
 2 Egg bites<br>
@@ -41,4 +45,10 @@ Start weight - 207.4
 ![Lunch](/img/lunch1.jpg)
 ![Lunch](/img/lunch1_1.jpg)
 
+### Dinner
 
+6:20 PM
+
+Vegetables and Tofu
+
+![](/img/dinner1.jpg)
