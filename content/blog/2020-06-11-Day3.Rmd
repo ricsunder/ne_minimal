@@ -1,0 +1,36 @@
+---
+title: Day 3
+author: ''
+date: '2020-06-21'
+categories: []
+tags: []
+description: Desc
+---
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+# Day 3
+
+Start weight - 206
+
+## Breakfast
+
+Egg white with black beans
+
+![](/img/breakfast3_1.jpg)
+
+Cottage cheese
+
+![](/img/breakfast3_2.jpg)
+
+## Lunch
+
+Salad with beans
+
+![](/img/lunch3_1.jpg)
+
+## Snack
+
