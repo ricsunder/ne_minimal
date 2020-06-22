@@ -1,0 +1,27 @@
+---
+title: Day 4
+author: ''
+date: '2020-06-22'
+categories: []
+tags: []
+description: Desc
+---
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+# Day 3
+
+Start weight - 205
+
+![](/img/wt4.jpg)
+
+## Breakfast
+
+Egg white with peppers, black beans and avocado
+
+Cottage cheese
+
+![](/img/breakfast4.jpg)
