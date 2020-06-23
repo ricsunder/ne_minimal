@@ -1,0 +1,26 @@
+---
+title: Day 5
+author: ''
+date: '2020-06-22'
+categories: []
+tags: []
+description: Desc
+---
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+# Day 5
+
+## Breakfast
+
+Egg bites burrito
+
+![](/img/breakfast5_1.jpg)
+
+
+Greek yogurt with dark chocolate
+
+![](/img/breakfast5_2.jpg)

@@ -12,7 +12,7 @@ library(tidyverse)
 
 ```
 
-# Day 3
+# Day 4
 
 Start weight - 205
 
