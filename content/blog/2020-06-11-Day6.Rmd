@@ -1,0 +1,42 @@
+---
+title: Day 6
+author: ''
+date: '2020-06-24'
+categories: []
+tags: []
+description: Desc
+---
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+# Day 6
+
+Start weight 204.8
+
+## Breakfast 
+
+2 Eggs & 1 cup egg white with peppers
+
+![](/img/breakfast6_1.jpg)
+
+Greek yogurt with dark chocolate 
+
+![](/img/breakfast6_3.jpg)
+
+## Lunch
+
+Kale Salad with vegetables
+
+![](/img/lunch6.jpg)
+
+Coconut Water
+
+![](/img/breakfast6_2.jpg)
+
+Tea
+
+![](/img/tea6.jpg)
+
