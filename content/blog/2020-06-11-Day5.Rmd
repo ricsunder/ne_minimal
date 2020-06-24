@@ -14,6 +14,8 @@ library(tidyverse)
 
 # Day 5
 
+Start weight 206
+
 ## Breakfast
 
 Egg bites burrito
@@ -24,3 +26,17 @@ Egg bites burrito
 Greek yogurt with dark chocolate
 
 ![](/img/breakfast5_2.jpg)
+
+## Lunch
+
+Asparagus with egg white omlette
+
+Tea
+
+![](/img/lunch5.jpg)
+
+## Dinner
+
+Berries Smoothie
+
+![](/img/dinner5.jpg)
