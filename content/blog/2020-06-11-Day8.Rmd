@@ -16,6 +16,8 @@ library(tidyverse)
 
 Start weight 204.4
 
+![](/img/wt8.jpg)
+
 ## Breakfast
 
 Egg white with peppers, beans and avocado with cottage cheese
