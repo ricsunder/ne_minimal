@@ -1,0 +1,29 @@
+---
+title: Day 8
+author: ''
+date: '2020-06-26'
+categories: []
+tags: []
+description: Desc
+---
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+```
+
+# Day 8
+
+Start weight 204.4
+
+## Breakfast
+
+Egg white with peppers, beans and avocado with cottage cheese
+
+![](/img/breakfast8_1.jpg)
+
+## Exercise
+
+30 mins cycle - 700 calories burned
+
+
