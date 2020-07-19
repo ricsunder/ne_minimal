@@ -12,7 +12,7 @@ meta_img: /images/image.jpg
 ---
 
 ```{r, echo=FALSE, include=FALSE}
-library(magick)
+#library(magick)
 library(tidyquant)
 library(leaflet)
 
@@ -129,12 +129,15 @@ International Antartic Centre
 
 <img src="">
 
-```{r vinda,echo=FALSE,message=FALSE}
-vin <- image_read("~/Documents/VT_Trip/Screen Shot 2018-07-15 at 9.38.24 PM.png")
-vin
-```
 <br/>
-Chicken Vindaloo
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-cdn.tripadvisor.com%2Fmedia%2Fphoto-s%2F15%2Fb8%2Fdb%2Fd2%2Fphoto0jpg.jpg&f=1&nofb=1"><br/>Chicken Vindaloo
+
+<img src="">
+
+
+<br/>
+
 
 ##### Day 7, Nov 1 2014
 
@@ -145,10 +148,10 @@ Chicken Vindaloo
 * The hike had many waterfalls, small wooded bridges and rocky paths along the way. As we approached the glacier, it got very cold and it was also very breezy. We did not have proper jackets. Yet we managed to get some picture and headed back to the hotel
 * After the hike we were hungry and ate again at King Tiger restaurant. It was again Chicken Vindaloo
 
-<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/franz-josef-glacier.jpg?height=488&outputformat=jpg&quality=80&source=3906156&transformationsystem=crop&width=650&securitytoken=BDE0F184494CBA69567C6E3981051DFA"><br/>Glacier
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Franz_Josef_glacier.JPG"><br/>Glacier
 
 <br/>
-<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/franz-josef-glacier.jpg?height=488&outputformat=jpg&quality=80&source=1725527&transformationsystem=crop&width=650&securitytoken=C0B9D23D1810027AAC5E511E3782A992"><br/>Glacier
+<img src="https://www.franzjosefglacier.com/assets/Uploads/_resampled/ScaleWidthWyI1NDAiXQ/doogan-180823-3868-low-res.jpg"><br/>Glacier Hike
 
 
 
@@ -163,11 +166,11 @@ Chicken Vindaloo
 * For dinner we had burritos and quesadillas at Amigos Mexican grill
 * We also met our tour agent, who was a very nice person
 
-<img src="http://www.tourismproperties.co.nz/__data/assets/image/0010/63883/37.LakeWanaka-view-over-town-SD.jpg"><br/>Lake Wanaka
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/200319114749-lake-wanaka-tree.jpg"><br/>Lake Wanaka
 
 <br/>
 
-<img src="https://skitravelcompany.com.au/wp-content/uploads/2017/08/Edgewater-Aerial-View.jpg"><br/>Our resort Lake Wanaka
+<img src="https://media.datahc.com/HI505804160.jpg"><br/>Our resort - Edgewater Resort at Lake Wanaka
 
 ##### Day 9, Nov 3 2014
 
@@ -176,7 +179,7 @@ Chicken Vindaloo
 * The group split here some went to eat Indian, others went for western meal
 * The group decided to rest for the evening
 
-<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/lake-te-anau.jpg?height=488&outputformat=jpg&quality=80&source=1539571&transformationsystem=crop&width=650&securitytoken=0511B21CC4328F189167708D03EFE6FF"><br/>Te Anau
+<img src="https://www.newzealand.com/assets/Tourism-NZ/Fiordland/9a0dc4d063/img-1536090612-477-26261-p-6B2D5629-E541-0D54-77B505A1D2A6C8D0-2544003__aWxvdmVrZWxseQo_CropResizeWzUwMCwzNzUsODAsInBuZyJd.png"><br/>Te Anau
 
 
 ##### Day 10, Nov 4 2014
@@ -199,9 +202,9 @@ Chicken Vindaloo
 * The water was so clean I decided to drink that instead of the bottled water
 * After Milford sound we were tired and happy to check in one last time into our hotel in Queenstown
 
-<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/kayaking-milford-sound.jpg?focalpointx=55.7&focalpointy=50&height=440&outputformat=jpg&quality=75&source=2305432&transformationsystem=focalpointcrop&width=1280&securitytoken=92B4BD82F31C9319CF98D4AFFDA1B642"><br/>Sea Kayak Milford Sound
+<img src="https://www.goorange.co.nz/media/699252/kayakedits19_5148.jpg?center=0.41396508728179549,0.485&mode=crop&width=800&heightratio=0.5645161290322581&rnd=132213132440000000&quality=70"><br/>Sea Kayak Milford Sound
 
-<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/cruising-towards-mitre-peak.jpg?focalpointx=50&focalpointy=50&height=440&outputformat=jpg&quality=75&source=2710792&transformationsystem=focalpointcrop&width=1280&securitytoken=A071C57C6EB06B04839DA1395FC95A87"><br/>Cruise Milford Sound
+<img src="https://www.hollandamerica.com/content/dam/hal/marketing-assets/Destinations/Australia/milford_sound_AFAR.jpg.image.750.563.low.jpg"><br/>Cruise Milford Sound
 
 <img src="https://cdn.experienceoz.com.au/assets/organisation/4493/banner/60333.jpg"><br/>Milford Sound
 
@@ -216,11 +219,11 @@ Chicken Vindaloo
 
 <img src="https://www.skyline.co.nz/media/1243/skyline-queenstown_home_remarkables-in-winter.jpg"><br/>Queenstown
 
-<img src="https://www.queenstownnz.co.nz/assets/Tourism-Operators/images/_resampled/CroppedFocusedImageWyIxOTAwIiwiOTAwIiwieSIsODRd/GFORCE-11.jpg"><br/>Paragliding
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/11/93/f9/43/stunning-views-of-queenstown.jpg"><br/>Paragliding
 
 <br/>
 
-<img src="https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/skyline-queenstown-luge-panorama.jpg?height=530&outputformat=jpg&quality=75&source=3173308&transformationratio=1.3&transformationsystem=autoboxfit&width=940&securitytoken=FFD52C919EDBB111F81CEF50FC7263D3"><br/>Luge
+<img src="https://www.skyline.co.nz/media/2144/skyline-queenstown_luge_header.jpg"><br/>Luge
 
 <br/>
 
@@ -228,7 +231,7 @@ Chicken Vindaloo
 
 <br/>
 
-<img src="https://www.queenstownnz.co.nz/assets/Tourism-Operators/images/_resampled/CroppedFocusedImageWyIxOTAwIiwiOTAwIiwieSIsMTg0XQ/Shotover-speeding-out-of-canyons-NEW-FACE3.jpg"><br/>Shotover Jet
+<img src="https://www.shotoverjet.com/assets/Uploads/hero__FillMaxWzE4MDAsODAwXQ.jpg"><br/>Shotover Jet
 
 <br/>
 
